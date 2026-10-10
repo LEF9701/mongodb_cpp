@@ -1,0 +1,3 @@
+C:/Users/law41/Desktop/driv/MongoExample/build-msvc-clean/CMakeFiles/mongo_example.dir
+C:/Users/law41/Desktop/driv/MongoExample/build-msvc-clean/CMakeFiles/edit_cache.dir
+C:/Users/law41/Desktop/driv/MongoExample/build-msvc-clean/CMakeFiles/rebuild_cache.dir
